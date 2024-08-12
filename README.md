@@ -2,9 +2,7 @@
 <h3 align="center">A Passionate MERN Stack Developer Crafting Scalable Web Solutions</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ommamakhan&label=Profile%20views&color=0e75b6&style=flat" alt="ommamakhan" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ommamakhan&margin-w=5" alt="ommamakhan" />
-  </a>
+ 
 </p>
 <h3 align="left">About Me</h3>
 <p align="left">I am a highly motivated MERN Stack Developer with a knack for building and deploying scalable web applications. My expertise includes developing seamless front-end experiences using <strong>Next.js</strong> and <strong>Tailwind CSS</strong>, and architecting robust back-end services with <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>MongoDB</strong>. I excel in creating secure authentication systems using <strong>JWT</strong>, managing state effectively with <strong>Redux Toolkit</strong>, and integrating dynamic APIs to create data-driven applications.</p>
