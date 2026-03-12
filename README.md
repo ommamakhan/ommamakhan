@@ -135,9 +135,7 @@ Graduated: **January 2025**
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ommamakhan&theme=tokyonight"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommamakhan&layout=compact&theme=tokyonight"/>
-</p>
+
 
 ---
 
