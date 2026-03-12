@@ -128,11 +128,11 @@ Graduated: **January 2025**
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ommamakhan&show_icons=true&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ommamakhan&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800"/>
 
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ommamakhan&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommamakhan&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800"/>
 </p>
 
 
